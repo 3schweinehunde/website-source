@@ -1,0 +1,51 @@
+---
+title: Episode 1
+subtitle: The empire rises from the couch
+datum: 09. Oktober 2017
+layout: post
+author: Dominik, TJ, Stefan und Stefan
+explicit: 'no'
+duration: "1:00:00"
+audio:
+  mp3: 3sh001_riseup.mp3
+chapters:
+  - '00:00:00.000 Begrüßung'
+contributors:
+  - name: "Dominic Helm"
+    uri: "https://therandomscientist.de/"
+  - name: "Stefan Dillinger"
+    uri: "https://therandomscientist.de/"
+  - name: "Stefan Haslinger"
+    uri: "https://panoptikum.io/informatom"
+    email: "stefan.haslinger@informatom.com"
+  - name: "TJ"
+    uri: "http://thetj.eu/"
+    email: "tj@thetj.eu"
+---
+
+{% podigee_player page %}
+
+## Show Notes and Links
+
+###Vorstellung der Podcast-Idee
+Welche Ziele insgesamt
+
+###Kurze Vorstellung der Personen
+Nochmal ohne Kneipenatmosphäre.
+Welche Lauferfahrung hat jeder schon.
+
+
+###TechTalk 
+(hier ist Platz fuer unsere Gadgets etc.)
+Laufausrüstung
+GPS tracking (Strava, Garmin-Uhr) 
+Trainingspläne/steuerung (steve > siehe Dropbox excel file)
+BMI-Tracking
+
+
+###Hausaufgaben
+Welche Ziele will jeder bis in drei Wochen erreichen?
+
+
+###Hausmeisterei
+Verabschiedung/Kommentare/Stravagruppe (alle mitmachen!)

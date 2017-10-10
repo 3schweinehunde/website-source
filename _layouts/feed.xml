@@ -9,7 +9,7 @@ layout: null
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:psc="http://podlove.org/simple-chapters"
      version="2.0">
-
+  <fyyd:verify xmlns:fyyd="https://fyyd.de/fyyd-ns/">Tlvenjdnm6agk2f9ryteuRgueY6blp378235317r</fyyd:verify>
   <channel>
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>

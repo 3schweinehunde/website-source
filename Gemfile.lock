@@ -1,8 +1,14 @@
-GIT
-  remote: git://github.com/jekyll/jekyll.git
-  revision: 1bb36ebc9e9336c2b02c006f21b22bcb2a7bf38c
+GEM
+  remote: https://rubygems.org/
   specs:
-    jekyll (3.6.0)
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    backports (3.10.3)
+    colorator (1.1.0)
+    facets (3.1.0)
+    ffi (1.9.18)
+    forwardable-extended (2.6.0)
+    jekyll (3.6.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -11,28 +17,8 @@ GIT
       liquid (~> 4.0)
       mercenary (~> 0.3.3)
       pathutil (~> 0.9)
-      rouge (>= 1.7, < 4)
+      rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-
-PATH
-  remote: ../jekyll-octopod
-  specs:
-    jekyll-octopod (0.9.1)
-      facets (~> 3.1)
-      jekyll (~> 3.3, >= 3.3.1)
-      jekyll-admin (~> 0.4.0)
-      jekyll-bootflat (~> 0.2.4)
-
-GEM
-  remote: https://rubygems.org/
-  specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
-    backports (3.9.1)
-    colorator (1.1.0)
-    facets (3.1.0)
-    ffi (1.9.18)
-    forwardable-extended (2.6.0)
     jekyll-admin (0.4.1)
       addressable (~> 2.4)
       jekyll (~> 3.3)
@@ -42,6 +28,11 @@ GEM
       jekyll (~> 3.3)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
+    jekyll-octopod (0.9.2)
+      facets (~> 3.1)
+      jekyll (~> 3.3, >= 3.3.1)
+      jekyll-admin (~> 0.4.0)
+      jekyll-bootflat (~> 0.2.4)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -64,9 +55,9 @@ GEM
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    rouge (3.0.0)
+    rouge (2.2.1)
     safe_yaml (1.0.4)
-    sass (3.5.2)
+    sass (3.5.3)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -88,10 +79,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll!
+  jekyll (~> 3.6.0)
   jekyll-bootflat
   jekyll-feed (~> 0.6)
-  jekyll-octopod!
+  jekyll-octopod (~> 0.9.2)
 
 RUBY VERSION
    ruby 2.4.2p198

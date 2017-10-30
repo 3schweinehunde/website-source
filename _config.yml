@@ -1,0 +1,42 @@
+
+title: "3 Schweinehunde"
+url: https://3-schweinehun.de
+subtitle: von Null zum Halbmarathon
+description: Hellmue, TJ und Stefan und ihre 3 Schweinehunde werden von Steve auf den Halbmarathon München 2019 vorbereitet.
+author: Dominic, TJ, Steve und Stefan
+email: feedback@3-schweinehun.de
+keywords: [Schweinehunde]
+itunes_categories: ["Sports &amp; Recreation"]
+
+itunes_url: http://itunes.apple.com/de/podcast/titel/id123456789
+panoptikum_url: https://panoptikum.io/podcasts/123456
+
+episodes_per_feed_page: 100
+# Date can be localized via date_de.rb plugin
+date_format: "ordinal"
+
+twitter_nick: 3schweinehunde
+language: de
+explicit: 'no'  # 'yes'/'no'/clean
+license: CC BY 4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+## Flattr ######################################################################
+flattr_uid: # Flattr will not be used unless this is set
+flattr_button: compact # compact | default
+flattr_mode: auto # auto | manual(default)
+flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
+flattr_language: de_DE # available languages - https://api.flattr.com/rest/v2/languages.txt
+flattr_category: audio # available categories - https://api.flattr.com/rest/v2/categories.txt
+## Disqus comments #############################################################
+disqus_shortname: # Disqus will not be used unless this is set
+disqus_developer: 0 # 1 / 0
+## Itunes link ###########################################################
+# itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
+## Isso comments #########################################################
+use_isso: no # set to 'yes' to include isso comments form
+
+plugins: [jekyll-octopod]
+theme: jekyll-bootflat
+exclude: [README.md, LICENSE]

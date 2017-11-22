@@ -6,3 +6,8 @@
 * Create goaccess report
   `zcat other_vhosts_access.log.*.gz | grep schweinehun | goaccess - > report.html`
 
+* Test locally
+  `jekyll serve --config _config.yml,_config.dev.yml --future`
+
+* Upload to server
+ `jekyll build && rsync -vr _site/ username@mittenin.at:/var/www/3schweinehunde`

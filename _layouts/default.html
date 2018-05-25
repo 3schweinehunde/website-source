@@ -9,7 +9,10 @@
   {% if site.description %}<meta name="description" content="{{ site.description | markdownify | strip_html }}">{% endif %}
   {% if site.author %}<meta name="author" content="{{ site.author }}">{% endif %}
 
-  <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/general_feed.xml" title="General Site Atom Feed (No Podcast Metadata!)" />
+  <link rel="alternate"
+        type="application/atom+xml"
+        href="{{ site.url }}/general_feed.xml"
+        title="General Site Atom Feed (No Podcast Metadata!)" />
   {{ site | episode_feeds_html }}
 
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
@@ -20,7 +23,6 @@
   <script type='text/javascript' src="{{ site.url }}/assets/js/jquery.fs.selecter.min.js"></script>
   <script type='text/javascript' src="{{ site.url }}/assets/js/jquery.fs.stepper.min.js"></script>
   <script type='text/javascript' src="{{ site.url }}/assets/js/custom.js"></script>
-  <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 
   {% if site.flattr_uid %}{% include flattr_loader.html %}{% endif %}
   {% if site.disqus_shortname %}
@@ -35,7 +37,12 @@
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <button type="button"
+                  class="navbar-toggle collapsed"
+                  data-toggle="collapse"
+                  data-target="#navbar"
+                  aria-expanded="false"
+                  aria-controls="navbar">
             <span class="sr-only">Navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -79,8 +86,4 @@
       </div>
     </div><!-- /.container -->
   </div><!-- /.container -->
-
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
 </html>

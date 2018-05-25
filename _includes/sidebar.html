@@ -13,13 +13,12 @@
 
 <p class="text-center">
   <script class="podlove-subscribe-button"
-          src="https://cdn.podlove.org/subscribe-button/javascripts/app.js"
+          src="/subscribe-button/javascripts/app.js"
           data-language="{{ site.language }}"
-          data-size="medium"
+          data-size="medium auto"
+          data-style="filled"
           data-json-data="podcastData"
-          data-colors="#FC6E51;green;blue"
-          data-buttonid="123abc"
-          data-hide="false">
+          data-colors="#FC6E51;green;blue">
   </script>
   <script>
     window.podcastData = {
@@ -44,23 +43,8 @@
 
 <hr/>
 
-<p class="text-center">
-  <iframe allowtransparency
-          frameborder='0'
-          height='454'
-          scrolling='no'
-          src='https://www.strava.com/clubs/313076/latest-rides/4fe8f97bd9bc68508be5c9db3bd08c30bec49786?show_rides=true'
-          width='300'>
-  </iframe>
-
-  <iframe allowtransparency
-          frameborder='0'
-          height='160'
-          scrolling='no'
-          src='https://www.strava.com/clubs/313076/latest-rides/4fe8f97bd9bc68508be5c9db3bd08c30bec49786?show_rides=false'
-          width='300'>
-  </iframe>
-</p>
+Aus Datenschutzgründen haben wir die Statistiken über unsere Strava-Gruppe auf die neue Seite
+<a href="/letzte_Laeufe">letzte Läufe</a> verschoben.
 
 <hr/>
 
@@ -91,8 +75,8 @@
 
 <ol type="i">
   <li>Apple-<a href="https://itunes.apple.com/at/podcast/3-schweinehunde/id1294866438?mt=2"><i class="fa fa-apple"></i> Itunes</a></li>
-  <li><a href="https://panoptikum.io/podcasts/23963"><img src="https://panoptikum.io/favicon.ico"/> Panoptikum</a></li>
-  <li><a href="https://fyyd.de/podcast/3-schweinehunde/0"><img height="16" src="https://fyyd.de/favicon.ico"/> Fyyd</a></li>
+  <li><a href="https://panoptikum.io/podcasts/23963"><img src="/img/panoptikum.ico"/> Panoptikum</a></li>
+  <li><a href="https://fyyd.de/podcast/3-schweinehunde/0"><img height="16" src="/img/fyyd.ico"/> Fyyd</a></li>
 
 </ol>
 
@@ -108,7 +92,7 @@
 {% if site.license_url %}
   <a rel="license" href="{{ site.license_url }}">
     {% if site.license_image_url %}
-      <img alt="Creative Commons License" style="border-width:0" src="{{ site.license_image_url }}" />
+      <img alt="Creative Commons License" style="border-width:0" src="/img/88x31.png" />
     {% else %}
       {{ site.license }}
     {% endif %}
@@ -134,36 +118,31 @@
 <ul style="list-style-type: none;">
   <li>
     <a href="https://twitter.com/{{ site.twitter_nick }}"
-       class="twitter-follow-button"
-       data-show-count="false">
+       class="button btn-primary btn-sm"
      @{{ site.twitter_nick }}
    </a>
   </li>
   <li>
     <a href="https://twitter.com/hellmue"
-       class="twitter-follow-button"
-       data-show-count="false">
+       class="button btn-primary btn-sm"
       @hellmue
     </a> aka Dominik
   </li>
   <li>
     <a href="https://twitter.com/johndillinger15 "
-       class="twitter-follow-button"
-       data-show-count="false">
+       class="button btn-primary btn-sm"
       @johndillinger15 ‏
     </a> aka Steve
    </li>
   <li>
     <a href="https://twitter.com/informatom"
-       class="twitter-follow-button"
-       data-show-count="false">
+       class="button btn-primary btn-sm"
       @informatom
    </a> aka Stefan
   </li>
   <li>
     <a href="https://twitter.com/theTJ23"
-       class="twitter-follow-button"
-       data-show-count="false">
+       class="button btn-primary btn-sm"
       @theTJ23
     </a> aka TJ
   </li>

@@ -22,16 +22,6 @@ license: CC BY 4.0
 license_url: https://creativecommons.org/licenses/by/4.0/
 license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-## Flattr ######################################################################
-flattr_uid: # Flattr will not be used unless this is set
-flattr_button: compact # compact | default
-flattr_mode: auto # auto | manual(default)
-flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
-flattr_language: de_DE # available languages - https://api.flattr.com/rest/v2/languages.txt
-flattr_category: audio # available categories - https://api.flattr.com/rest/v2/categories.txt
-## Disqus comments #############################################################
-disqus_shortname: # Disqus will not be used unless this is set
-disqus_developer: 0 # 1 / 0
 ## Itunes link ###########################################################
 # itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
 ## Isso comments #########################################################

@@ -10,13 +10,14 @@
     {% assign download_url = site.download_url %}
   {% endif %}
   {{ post.content }}
+  <p>
     {% if post.audio %}
       {% for file in post.audio %}
-      <a class="btn btn-primary" href="{{ download_url }}/{{ file.last }}">Download .{{ file.first }} ({{ file.last | file_size:'./' | string_of_size }})</a>
+      <a class="btn btn-default" href="{{ download_url }}/{{ file.last }}">Download .{{ file.first }} ({{ file.last | file_size:'./' | string_of_size }})</a>
       {% endfor %}
     {% endif %}
-  <hr>
-  {{ site | flattr_button:post }}
+  </p>
+
   <a href="https://twitter.com/share"
      class="button btn-primary btn-sm"
      data-url="{{ site.url }}{{post.url }}"

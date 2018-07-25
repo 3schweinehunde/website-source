@@ -30,3 +30,5 @@ use_isso: no # set to 'yes' to include isso comments form
 plugins: [jekyll-octopod]
 theme: jekyll-bootflat
 exclude: [README.md, LICENSE]
+
+future: false

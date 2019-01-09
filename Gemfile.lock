@@ -1,10 +1,10 @@
 GIT
   remote: https://github.com/jekyll-octopod/jekyll-octopod
-  revision: e1872a96a87d2b12462a09ac7ac8760403c4248e
+  revision: 9625a211aed9cbc16bac921c28f7b6982b7322c5
   specs:
-    jekyll-octopod (0.9.10)
+    jekyll-octopod (0.9.11)
       facets (~> 3.1)
-      jekyll (~> 3.3, >= 3.3.1)
+      jekyll (~> 3.8)
       jekyll-admin (~> 0.4.0)
       jekyll-bootflat (~> 0.2.6)
 
@@ -28,7 +28,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.3)
+    jekyll (3.8.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -103,7 +103,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.7.3)
+  jekyll
   jekyll-feed (~> 0.6)
   jekyll-octopod!
 

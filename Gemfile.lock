@@ -1,19 +1,12 @@
 GIT
   remote: https://github.com/jekyll-octopod/jekyll-octopod
-  revision: a605eaacb603dfc8451b32b2f7e51fc7d868b377
+  revision: e1872a96a87d2b12462a09ac7ac8760403c4248e
   specs:
-    jekyll-octopod (0.9.9)
+    jekyll-octopod (0.9.10)
       facets (~> 3.1)
       jekyll (~> 3.3, >= 3.3.1)
       jekyll-admin (~> 0.4.0)
-      jekyll-bootflat (~> 0.2.4)
-
-PATH
-  remote: ../jekyll-bootflat
-  specs:
-    jekyll-bootflat (0.2.5)
-      font-awesome-sass (~> 5.2)
-      jekyll (~> 3.3)
+      jekyll-bootflat (~> 0.2.6)
 
 GEM
   remote: https://rubygems.org/
@@ -53,6 +46,9 @@ GEM
       jekyll (~> 3.3)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-bootflat (0.2.6)
+      font-awesome-sass (~> 5.2)
+      jekyll (~> 3.3)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
@@ -108,7 +104,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.7.3)
-  jekyll-bootflat!
   jekyll-feed (~> 0.6)
   jekyll-octopod!
 

@@ -1,6 +1,7 @@
 ---
 title: Impressum
 layout: default
+permalink: impressum/
 navigation: 1
 ---
 

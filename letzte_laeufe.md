@@ -1,6 +1,7 @@
 ---
 title: letzte Läufe
 layout: default
+permalink: letzte_laeufe/
 navigation: 4
 ---
 

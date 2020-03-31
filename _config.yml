@@ -32,3 +32,4 @@ theme: jekyll-bootflat
 exclude: [README.md, LICENSE]
 
 future: false
+player_theme: default-dark

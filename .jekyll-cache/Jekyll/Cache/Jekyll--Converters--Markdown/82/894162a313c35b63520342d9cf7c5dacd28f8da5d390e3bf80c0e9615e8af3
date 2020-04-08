@@ -1,8 +1,0 @@
-I"0<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh028_4sh.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 28","subtitle":"4 Schweinehunde","url":"http://localhost:4000/2019/10/12/episode28.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Friedhelm"},{"start":"00:03:12.000 ","title":"Marco"},{"start":"00:10:16.000 ","title":"Steve"},{"start":"00:21:55.000 ","title":"Verabschiedung"}]}}
-</script>
-
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
-</script>
-
-:ET

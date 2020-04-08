@@ -1,8 +1,0 @@
-I"k<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh032_anders.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 32","subtitle":"1. kommt es anders und 2. als mensch denkt","url":"http://localhost:4000/2020/03/21/episode32.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:01:17.000 ","title":"Rechenschaftsablage"},{"start":"00:11:35.000 ","title":"Themen"},{"start":"01:08:00.000 ","title":"Termine und Verabschiedung"}]}}
-</script>
-
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
-</script>
-
-:ET

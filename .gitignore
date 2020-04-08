@@ -6,3 +6,4 @@ _site
 stats/*
 Gemfile.lock
 episodes/3sh022_was_laeuft.flac
+.jekyll-cache

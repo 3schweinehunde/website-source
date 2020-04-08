@@ -1,8 +1,0 @@
-I"y<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh031_36_stunden_ohne.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 31","subtitle":"36 Stunden ohne","url":"http://localhost:4000/2020/02/08/episode31.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Preshow"},{"start":"00:00:49.000 ","title":"Begrüßung"},{"start":"00:02:08.000 ","title":"Rechenschaftsablage"},{"start":"00:08:00.000 ","title":"Themen"},{"start":"00:46:45.000 ","title":"Verabschiedung"}]}}
-</script>
-
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
-</script>
-
-:ET

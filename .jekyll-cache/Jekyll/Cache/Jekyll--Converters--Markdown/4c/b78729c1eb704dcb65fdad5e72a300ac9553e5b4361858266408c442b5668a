@@ -1,0 +1,70 @@
+I"�<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh015_running_in_bremen.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 15","subtitle":"Running in Bremen","url":"http://localhost:4000/2018/11/21/episode15.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:01:50.000 ","title":"Rechenschaftsablage"},{"start":"00:12:30.000 ","title":"Interview Melanie"},{"start":"00:22:10.000 ","title":"Schuhe"},{"start":"00:29:10.000 ","title":"Themen"},{"start":"01:03:40.000 ","title":"Termine"},{"start":"01:06:20.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="rechenschaftsablage">Rechenschaftsablage</h3>
+
+<ul>
+  <li>224 Runner in der Gruppe!</li>
+  <li>Dominic: 146 km bei 22 Aktivitaeten</li>
+  <li>Stefan: 166 km bei 23 Läufen</li>
+  <li>Steve: 170 km bei 17 Läufen.</li>
+  <li>TJ: off</li>
+</ul>
+
+<h3 id="interview-melanie">Interview Melanie</h3>
+
+<ul>
+  <li>Wer bist Du und was ist Deine Läufer:innengeschichte?</li>
+</ul>
+
+<h3 id="themen">Themen</h3>
+
+<h4 id="stefan">Stefan</h4>
+
+<ul>
+  <li><a href="https://amzn.to/2PddAmd">Das große Buch vom Marathon: Lauftraining mit System</a> gelesen, viele Erkenntnisse</li>
+  <li>zu schnell und zu langsam</li>
+  <li>zu wenig oft: Trainiert jetzt 3-4 mal pro Woche</li>
+  <li><a href="https://www.amazon.de/gp/product/B00L4Z4HR2">Socken</a></li>
+  <li>neue Schuhe, Beanie</li>
+  <li>war krank, recht schnell wieder gesund, dank? <a href="https://www.amazon.de/gp/product/B06XKLNY2M/">Zink Tabletten</a></li>
+  <li>nächste Wettkämpfe: Mödlinger Adventlauf und Wiener Staffelmarathon</li>
+</ul>
+
+<h4 id="tj">TJ</h4>
+
+<ul>
+  <li>wird langsam wieder, zumindest jede Woche 5km</li>
+  <li>Danke für eine Rückmeldung wegen vielleicht mal zusammen laufen in München-Süd-West, leider zu weit auseinander.
+    <ul>
+      <li>Also falls noch jemand in der Gegend ist, bevorzugt Fürstenried/Hadern/Neuried…</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="dominic">Dominic</h4>
+
+<ul>
+  <li>Zwei Paar neue Schuhe - Strasse und Trailrunner</li>
+  <li><a href="https://www.asics.com/us/en-us/gt-3000-5/p/0010291331.4549">Asics</a> und 
+  <a href="https://www.saucony.com/DE/de_DE/excursion-tr12-gtx/32728M.html?dwvar_32728M_color=S20453-1#cgid=mens-running-trail-running&amp;start=1">Saucony</a></li>
+  <li>12 km sind mehr als 10 km.</li>
+  <li>Nach 16 h Intervallfasten Laufen - das geht an den Speck.</li>
+</ul>
+
+<h3 id="schweinehunde---termine">Schweinehunde - Termine</h3>
+
+<ul>
+  <li>Lauf auf dem #35c3 vermutlich an Tag 1 (27.12.) oder 2 (28.12.) morgens ein oder zwei Runden um die Messe Leipzig.</li>
+  <li>Sendung im Sendezentrum auf dem 35c3 - Termin wird kurzfristig bekanntgegeben, wegen Slot im Sendezentrum.</li>
+  <li>Halbmarathon München 13.Oktober 2019: Anmeldung mit Verein: <strong>3 Schweinehunde</strong></li>
+</ul>
+
+<p><img src="/img/anmeldung.png" alt="Anmeldung" /></p>
+:ET

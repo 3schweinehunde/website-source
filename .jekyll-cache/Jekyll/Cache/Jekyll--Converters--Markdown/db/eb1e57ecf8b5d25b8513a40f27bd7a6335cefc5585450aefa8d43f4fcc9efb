@@ -1,0 +1,68 @@
+I"_<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh024_muehsam.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 24","subtitle":"Mühsam nährt sich der Schweinehund","url":"http://localhost:4000/2019/05/18/episode24.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Einleitung"},{"start":"00:01:15.000 ","title":"Rechenschaftsablage"},{"start":"00:06:05.000 ","title":"Themen"},{"start":"00:44:52.000 ","title":"Termine"},{"start":"00:46:55.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="rechenschaftsablage-seit-104">Rechenschaftsablage seit 10.4.</h3>
+
+<ul>
+  <li>268 Runner in den Gruppe 3 Schweinehunde</li>
+  <li>Dominic: 14 Läufe - 100.41 km</li>
+  <li>Stefan: 20 Läufe - 193.3 km</li>
+  <li>Steve: 27 Läufe - 383 km</li>
+  <li>TJ: 1 Lauf - 4 km</li>
+</ul>
+
+<h2 id="themen">Themen</h2>
+
+<h4 id="dominic">Dominic</h4>
+
+<ul>
+  <li>Laufbänder sind LANGWEILIG</li>
+  <li>Neue Uhr <a href="https://amzn.to/2Hyxu4t">Garmin 645M</a></li>
+  <li>Meine Probleme mit dem Trainingsplan und dem Leben</li>
+</ul>
+
+<h4 id="stefan">Stefan</h4>
+
+<ul>
+  <li>Antwort Feedback: Die Bluetooth Kopfhörer halten etwa 5-6 Stunden, allerdings kommt nach “Battery low”-Durchsage das Aus innerhalb 10 min.</li>
+  <li><a href="https://github.com/3schweinehunde/fit_parser">Fit-Parser</a> hat 9170 Zeilen Code bisher :-)<br />
+Und das ist alles nur die Spezifikation dies Datenformat - noch nicht mal der Parser.</li>
+  <li>Meine Füße hulkifizieren und ich hätte gerne neue große Zehen (Haut reicht).</li>
+  <li>Aerobes Ungleichgewicht (hoffentlich) überwunden! <a href="https://philmaffetone.com/the-balance-game/">The balance game</a>
+    <ul>
+      <li>Buch <a href="https://amzn.to/2VKRvhX">The Big Book of Endurance Training and Racing</a></li>
+      <li>Publikation
+<a href="https://www.researchgate.net/publication/332769237">World-Class Long-Distance Running Performances Are Best Predicted by Volume of Easy Runs and Deliberate Practice of Short-Interval and Tempo Runs</a></li>
+    </ul>
+  </li>
+  <li>Rohkost ftw!</li>
+</ul>
+
+<h4 id="steve">Steve</h4>
+
+<ul>
+  <li>Vorbereitung auf Regensburg HM abgeschlossen, now Taperings
+    <ul>
+      <li>Alle Metriken deuten auf bessere Form hin: FTP, PWR/HR, Speed/HR etc.</li>
+      <li>Aber etwas müde die letzten 2 Wochen … EMBL, trotzdem voll trainiert…</li>
+    </ul>
+  </li>
+  <li>Stark ins WKO4 Graph-Building eingestiegen und Ausbildung zum Lauftrainer angefangen. Bald also noch professionelleres Coaching möglich :)</li>
+  <li><a href="https://www.youtube.com/channel/UCeSHo5kTvzoik4STh7MuMCA">Seth James DeMoor - Youtube</a></li>
+</ul>
+
+<h2 id="termine">Termine</h2>
+
+<ul>
+  <li>25.Mai 2019: T-Shirts - Interessensbekundungen an <a href="mailto:feedback@3-schweinehun.de">feedback@3-schweinehun.de</a>.
+Wer sich bisher schon gemeldet hat, ist schon auf unserer Liste und wird am 26. von uns kontaktiert.</li>
+  <li>5.Juli 2019: <a href="https://www.nct-heidelberg.de/das-nct/spenden/nct-lauf.html">NCT-Lauf Heidelberg </a></li>
+  <li>13.Oktober 2019: <a href="https://www.abavent.de/anmeldeservice/334/1444/3883/?de">Halbmarathon München</a> - Anmeldung mit Verein: <strong>3 Schweinehunde</strong> - bisher schon 10 Anmeldungen!</li>
+</ul>
+:ET

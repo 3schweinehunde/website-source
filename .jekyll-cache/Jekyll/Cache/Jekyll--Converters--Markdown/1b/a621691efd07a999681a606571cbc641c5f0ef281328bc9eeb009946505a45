@@ -1,0 +1,78 @@
+I"<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh027_unrund.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 27","subtitle":"Unrund","url":"http://localhost:4000/2019/09/21/episode27.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:01:20.000 ","title":"Feedback"},{"start":"00:08:15.000 ","title":"Fußprobleme"},{"start":"00:32:50.000 ","title":"Ziele für München"},{"start":"00:37:08.000 ","title":"Termine"},{"start":"00:39:00.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="rechenschaftsablage-seit-2482019">Rechenschaftsablage seit 24.8.2019</h3>
+
+<ul>
+  <li>268 Runner in den Gruppe 3 Schweinehunde</li>
+  <li>Dominic: 6 Läufe -  33 km</li>
+  <li>Stefan: 12 Läufe - 105 km</li>
+  <li>Steve: 12 Läufe - 138 km</li>
+</ul>
+
+<h3 id="themen">Themen</h3>
+
+<h4 id="dominic">Dominic</h4>
+
+<ul>
+  <li>Der Fuß der Nation</li>
+  <li>Konsequenzen muss man ziehen</li>
+</ul>
+
+<h4 id="stefan">Stefan</h4>
+
+<ul>
+  <li>deutliche Verbesserung bei der Rumpftorsion</li>
+  <li>Plan München (Zeit? Leistung? Puls?)</li>
+  <li>Laufschuhe für München:
+<a href="https://www.decathlon.at/laufschuhe-kiprun-kd-light-id_8519141.html">Kiprun KD Light</a></li>
+  <li>oder noch immer die
+<a href="https://www.decathlon.at/laufschuhe-kiprun-fast-herren-id_8505365.html">Kiprun Fast</a></li>
+  <li>Das Knie der Republik wurde durch die Achillessehne der Stadt ersetzt ;-)</li>
+  <li><a href="http://fatboysrun.de/fatboysrun-episode-103-ueberzeugt-pose-method-mit-wieland-heiser/">Pose Method Episode</a>
+des Fatboys Run Podcast</li>
+  <li>Feedback von Stefanie: =&gt;
+Buch <a href="https://www.amazon.de/Mittelfu%C3%9Flauf-Biomechanische-Grundlagen-praktische-effektivsten/dp/3767911140">Mittelfußlauf</a></li>
+</ul>
+
+<h4 id="steve">Steve</h4>
+
+<ul>
+  <li>Die Oberschenkel des Freistaats</li>
+  <li>Fazit: Zu oft mit zu hoher Intensität trainiert. Weniger Intervalle mehr gut
+(1x pro Woche). evtl auch neben vollzeit Job nur 4 statt 5 Läufe pro Woche…</li>
+  <li>nach dem Regensburg HM erstmal Pause gemacht und ab Ende Juli die Umfänge
+langsam wieder gesteigert. Erste Intervalle liefen schon wieder gut. Jetzt
+noch spezifische Halbmarathonvorbereitung mit Läufen bzw Intervallen an der
+Schwelle. In München: Lauf genießen.</li>
+</ul>
+
+<h3 id="nächste-termine">Nächste Termine</h3>
+
+<ul>
+  <li><a href="https://www.abavent.de/anmeldeservice/334/1444/3883/?de">Halbmarathon München</a>
+13.Oktober 2019: Anmeldung mit Verein: <strong>3 Schweinehunde</strong> - 10 Anmeldungen schon</li>
+  <li><a href="https://www.strava.com/clubs/313076/group_events/582086">HörerInnenlauf Ganzohr ‘19</a>,
+Nordhorn, Samstag 19.10.2019
+    <ul>
+      <li>Infos zur
+<a href="https://wissenschaftspodcasts.de/blog/wisspod/ganzohr2019-infos-und-anmeldung/">Ganzohr ‘19</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="credits">Credits</h3>
+
+<ul>
+  <li>Die Unterbrechungsmusik ist
+<a href="http://ccmixter.org/files/texasradiofish/60097">Wanderer</a> von
+<a href="http://ccmixter.org/people/texasradiofish">texasradiofish</a> und kann auf
+<a href="http://ccmixter.org/">CCMixter</a> gefunden werden.</li>
+</ul>
+:ET

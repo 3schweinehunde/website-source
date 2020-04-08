@@ -1,0 +1,11 @@
+I"O<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh000_nullnummer.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 0","subtitle":"Nullnummer","url":"http://localhost:4000/2017/09/23/episode0.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Nullnummer in Kneipenatmosphäre"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<p>Eine erste Zielsetzung und kleine Vorstellungsrunde in geselliger Atmosphäre.</p>
+:ET

@@ -1,0 +1,72 @@
+I"�<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh004_winter.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 4","subtitle":"Winter is here","url":"http://localhost:4000/2017/12/20/episode4.html","description":null,"chaptermarks":[{"start":"00:00:13.044 ","title":"Begrüßung"},{"start":"00:01:06.918 ","title":"Einspieler Nicolas Wöhrl"},{"start":"00:10:21.334 ","title":"Nachbesprechung Einspieler"},{"start":"00:12:29.317 ","title":"Weiteres Feedback"},{"start":"00:19:01.343 ","title":"Brillen, Lampen und Dominics Erfahrungen mit der Lampe"},{"start":"00:32:15.447 ","title":"Laufzusammenfassung Stefan"},{"start":"00:33:42.831 ","title":"Laufzusammenfassung TJ"},{"start":"00:34:57.760 ","title":"Laufenzusammenfassung Steve"},{"start":"00:36:13.415 ","title":"Rucksack Stefan"},{"start":"00:39:27.017 ","title":"Podrunner"},{"start":"00:41:40.389 ","title":"Steve Laufpause Winterprojekt"},{"start":"00:44:41.734 ","title":"Hinweise gerne als Audiokommentar"},{"start":"00:45:03.476 ","title":"Yoga und Laufen"},{"start":"00:45:55.985 ","title":"Planung Silvestersendung vom 34c3"},{"start":"00:46:34.230 ","title":"Dominic über Schnee und Hunde"},{"start":"00:49:12.249 ","title":"Planung des weiteren Trainings"},{"start":"00:50:41.446 ","title":"Feedback und Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="feedback">Feedback</h3>
+
+<ul>
+  <li>Nicolas (audio)
+    <ul>
+      <li>discuss</li>
+    </ul>
+  </li>
+  <li>Der HarleRunner, Thomas Pier
+    <ul>
+      <li><a href="https://thesecretofrunning.com/calculator/">theSecretofRunning.com</a> Calculator</li>
+    </ul>
+  </li>
+  <li>Markus (email)
+    <ul>
+      <li><a href="https://www.amazon.de/dp/3840375231/">Das geheimnis des Laufens (amazon)</a></li>
+    </ul>
+  </li>
+  <li>Gabriel (strava zu Einlagen)
+    <ul>
+      <li><a href="http://www.youtube.com/watch?v=ok61qt4_w4Y">YOUTUBE.COM</a></li>
+    </ul>
+  </li>
+  <li>Sebastian
+    <ul>
+      <li>(strava zu laufen bei krankheit und zu Laufen mit Brille)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="rechenschaftsablage-">Rechenschaftsablage ;)</h3>
+<ul>
+  <li>Dominic: 5x - unter der Woche ging zur Zeit absolut nichts… jammern - Aber: <a href="https://www.amazon.de/dp/B00WK7H2R0">Headlamp!!! (amazon-link)</a></li>
+  <li>Stefan</li>
+  <li>Steve: 79 km in 13 Läufen, 6 davon kurze Läufe mit meiner Frau</li>
+  <li>TJ - on/off krank, deswegen kaum erfasst gelaufen nur spazieren gewesen</li>
+</ul>
+
+<h3 id="themen">Themen</h3>
+
+<ul>
+  <li>Steve: meine Frau läuft jetzt auch :) Folgt ihr alle auf Strava :P
+    <ul>
+      <li>unterschiede zwischen meiner GPS Uhr und der Strava App meiner frau …</li>
+    </ul>
+  </li>
+  <li>Stefan: Laufen mit Rucksack / es wird kälter und windiger</li>
+  <li>Steve macht Laufpause; will sich stattdessen mit folgenden themen beschäftigen</li>
+  <li>Stryd <a href="http://harlerunner.de/laufeffizienz-mit-stryd-ermitteln-und-nutzen/">Quelle: harlerunner.de</a></li>
+  <li>Yoga?</li>
+  <li>Stefan: Haltung beim Laufen</li>
+  <li>Stefan: -3 kg! - TJ auch, aber mehr wegen Krankheit</li>
+  <li>Stefan: http://www.podrunner.com/</li>
+  <li>Hunnndeeeeeeeee!!!!</li>
+</ul>
+
+<h3 id="abschluss">Abschluss</h3>
+<p>Nächste Folge werden Stefan und TJ auf dem 34c3 aufnehmen vermutlich mit Gast oder Gästen.</p>
+
+<p>Ausserdem werden wir an Tag 2 des 34c3 morgens eine Aufwach/Aufwärmrunde ums Messegelände drehen und würden uns über begleitung (wenn auch nur am Start :D) freuen</p>
+
+<p>Details auf <a href="https://www.strava.com/clubs/313076/group_events/250424">strava</a></p>
+:ET

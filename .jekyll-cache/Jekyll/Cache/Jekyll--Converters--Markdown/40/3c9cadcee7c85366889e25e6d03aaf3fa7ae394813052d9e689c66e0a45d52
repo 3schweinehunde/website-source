@@ -1,0 +1,57 @@
+I"d<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh003_schweinehunde.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 3","subtitle":"Schweinehunde","url":"http://localhost:4000/2017/11/20/episode3.html","description":null,"chaptermarks":[{"start":"00:00:03.739 ","title":"Progress"},{"start":"00:10:55.035 ","title":"Dominics Erfahrungen"},{"start":"00:17:43.877 ","title":"neue Gadgets"},{"start":"00:30:14.928 ","title":"physics (e=mc^2)"},{"start":"00:34:07.845 ","title":"Ziele nächste 3 Wochen"},{"start":"00:39:28.816 ","title":"Grüße an andere Podcasts"},{"start":"00:41:00.080 ","title":"Feedback"},{"start":"00:47:23.504 ","title":"Hausmeisterei"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="update-der-laufleistungen">Update der Laufleistungen</h3>
+<ul>
+  <li>Stefan (LEADER): 2 Tage war der Stefan krank, jetzt läuft er wieder, 3-Schweinehunde sei Dank, 7 mal Laufen</li>
+  <li>Steve: 10 mal Laufen - 97 km - top motiviert</li>
+  <li>TJ: 5 mal laufen gewesen je ca. 3 km (war auch krank/unwohl)</li>
+  <li>Dominic: 5 mal Laufen - Ich rechtfertige mich (Krankheit, Leben)</li>
+</ul>
+
+<h3 id="lauferfahrungen-dominic">Lauferfahrungen (Dominic)</h3>
+<h3 id="new-gadgets">New Gadgets</h3>
+<ul>
+  <li>Laufausrüstung (TJ war bei decathlon)</li>
+  <li>GPS tracking (Strava, Garmin-Uhr)</li>
+  <li>Trainingspläne/steuerung (steve &gt; siehe Dropbox excel file)</li>
+  <li>BMI-Tracking</li>
+  <li>TJ: Neues Smartphone (Nokia 8) - erste Läufe mit besserer GPS-Qualität?!</li>
+  <li>Neopren Jacke vs. eine Schicht mehr (Stefan)</li>
+  <li>Rucksack (Stefan)</li>
+  <li>Ein Freund von Westen und kurzen Aermeln (Dominic)</li>
+  <li>AGPS: <a href="https://de.wikipedia.org/wiki/Assisted_Global_Positioning_System">Wikipedia</a></li>
+</ul>
+
+<h3 id="hausaufgaben-für-minkorret">Hausaufgaben für Minkorret</h3>
+<ul>
+  <li>
+    <p>Wie viel schneller werde ich, alleine durch Abnehmen? :)</p>
+  </li>
+  <li>Das 4. Potenz-Gesetz (Stefan), z.B. 80kg vs. 100kg -&gt; 1:1.25 Gewicht -&gt; 1:2.25 Belastung</li>
+  <li>Welche Ziele will jeder bis in drei Wochen erreichen?</li>
+</ul>
+
+<h3 id="grüße-an-andere-podcasts-steve">Grüße an andere Podcasts (Steve)</h3>
+<p>BeVegt, FatBoysrun, LaufenLiebeErdnussbutter, Enducave, Schnaufcast, running-podcast</p>
+
+<h3 id="kommentare">Kommentare</h3>
+<ul>
+  <li>Da gab es wo Kritik, wo war die? (Stefan)</li>
+  <li>Sebastian fragt nach Pulsmessung</li>
+</ul>
+
+<h3 id="hausmeisterei">Hausmeisterei</h3>
+<ul>
+  <li>STICKER !!!!!!</li>
+  <li>Wollen wir eigentlich eine Folge zwischen Weihnachten und Neujahr machen?</li>
+  <li>Verabschiedung/Kommentare/Strava-Gruppe (78 teilnehmer bisher, alle mitmachen!)</li>
+  <li>Steve würde sich über mitläufer aus regensburg freuen. steve@3-schweinehun.de</li>
+</ul>
+:ET

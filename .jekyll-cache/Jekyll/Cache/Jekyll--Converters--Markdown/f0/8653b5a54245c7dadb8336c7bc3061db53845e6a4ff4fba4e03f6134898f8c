@@ -1,0 +1,67 @@
+I"<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh006_newyear.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 6","subtitle":"The Power of the New Year","url":"http://localhost:4000/2018/01/25/episode6.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:00:38.000 ","title":"Feedback"},{"start":"00:02:13.000 ","title":"Rechenschaftsablage"},{"start":"00:09:48.000 ","title":"Bastian"},{"start":"01:01:38.000 ","title":"Themen"},{"start":"01:28:40.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="feedback">Feedback</h3>
+
+<ul>
+  <li>Aresch - ähnliche Situation wie wir</li>
+</ul>
+
+<h3 id="rechenschaftsablage">Rechenschaftsablage</h3>
+
+<ul>
+  <li>136 Runner in der <a href="https://www.strava.com/clubs/3schweinehunde">Strava Gruppe</a>!</li>
+  <li>Dominic - 8 runs, 40 km, Dummer Schnupfen, Crosstrainer (Weihnachten), Fit auf dem Kreuzfahrtschiff</li>
+  <li>Stefan - 52 km, 8 Läufe, -9.7 kg</li>
+  <li>Steve - seit 31.12. - 109km - 9 Läufe - incl 10km Wettkampf</li>
+  <li>TJ - letzt woche endlich mal die 8km (bzw. 9km geschafft)</li>
+  <li>Bastian - guckstu Strava ;)</li>
+</ul>
+
+<h2 id="zu-gast---bastian">Zu Gast - Bastian</h2>
+
+<ul>
+  <li><a href="https://twitter.com/schlingel">@schlingel</a></li>
+  <li>Buch <a href="http://amzn.to/2n4DTuz">Born to run</a></li>
+  <li><a href="http://amzn.to/2DsvsiU">Berryking</a> Brustgurt</li>
+  <li><a href="http://amzn.to/2n4CK6g">LED Lenser</a> Stirnlampe</li>
+  <li><a href="http://amzn.to/2DsoGd0">Buff</a> Kopfbedeckung</li>
+  <li>Kopfhörer:
+    <ul>
+      <li><a href="http://amzn.to/2DEelOC">Anker Soundbuds Curve</a></li>
+      <li><a href="http://amzn.to/2DprszF">Aftershocks</a></li>
+      <li><a href="http://amzn.to/2n2CMvE">Bragi The Dash</a></li>
+      <li><a href="http://amzn.to/2DBBdPy">Jabra Elite</a></li>
+      <li><a href="http://amzn.to/2DwQ65H">Zolo Liberty</a> (auch Anker)</li>
+      <li><a href="http://amzn.to/2n4dP1Z">Anker Flow</a> (von Dominic)</li>
+    </ul>
+  </li>
+  <li><a href="http://moov.cc/">Moov</a> - Bewegungssensor</li>
+  <li><a href="https://www.evalu.com/">evalu.run</a> - Sohleneinlagesensor</li>
+</ul>
+
+<h2 id="themen">Themen</h2>
+
+<ul>
+  <li>Stryd Powersensor:
+    <ul>
+      <li><a href="http://amzn.to/2DDLZns">The secret of Running</a></li>
+      <li><a href="https://www.stryd.com/">Stryd Web-Site</a></li>
+      <li><a href="https://youtu.be/IpMojEeZ08w">Vortrag</a></li>
+      <li><a href="https://www.trainingpeaks.com/blog/running-with-power-what-it-can-tell-us-about-our-human-limits/">Doping/Limits</a></li>
+      <li><a href="https://thesecretofrunning.com/wp-content/uploads/2018/01/32-Power2Run.pdf">Power2Run App</a></li>
+      <li><a href="https://runwithpower.net/2016/05/04/jim-vances-running-power-zones/">Power-Zones</a></li>
+      <li>Bei Fragen gerne Mail an <a href="mailto:feedback@3-schweinehun.de">feedback@3-schweinehun.de</a></li>
+    </ul>
+  </li>
+  <li>Fitness-Tracker Url <a href="http://amzn.to/2DiqLIw">Garmin Vivosmart HR+</a></li>
+  <li>Trecking Schuhe: <a href="https://www.sportiva.com/men-s/primer-low-gtx.html">La Sportiva Primer Low GTX</a> (Stefan)</li>
+  <li>Bauchmuskeltraining - <a href="https://www.runtastic.com/sixpack">Runtastic App Sixpack</a> (Stefan)</li>
+</ul>
+:ET

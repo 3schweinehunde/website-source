@@ -1,0 +1,62 @@
+I"W<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh016_marathon_relay_intermezzo.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 16","subtitle":"Intermezzo: Marathon Staffel","url":"http://localhost:4000/2018/12/22/episode16.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:01:00.000 ","title":"Vorstellungsrunde"},{"start":"00:13:40.000 ","title":"Rechenschaftsbericht"},{"start":"00:29:44.000 ","title":"Themen"},{"start":"00:36:37.000 ","title":"Ausblick"},{"start":"00:38:53.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="rechenschaftsablage">Rechenschaftsablage</h3>
+
+<ul>
+  <li>227 Runner in 3-Schweinehunde Gruppe, 6 Runner in der vienna-rb Gruppe</li>
+  <li>Aaron - xx.x km in xx runs.</li>
+  <li>Markus - 710 km in 64 runs 2018.</li>
+  <li>Stefan - 169,4 km in 24 runs seit 8.November</li>
+</ul>
+
+<h3 id="themen">Themen</h3>
+
+<h4 id="aaron">Aaron</h4>
+
+<ul>
+  <li><a href="http://www.c25k.com/">Couch25K</a></li>
+</ul>
+
+<h4 id="markus">Markus</h4>
+
+<ul>
+  <li>Braucht noch ein 3-Schweinehunde Running t-shirt für die Marathon Staffel.</li>
+  <li>Will auch in München beim Halbmarathon mit den 3-Schweinehunden starten .</li>
+  <li><a href="https://www.24stundenburgenland.com">60 Kilometer im Burgenland</a></li>
+  <li><a href="https://www.blackroll.com/de/blackroll-app">Blackroll App</a></li>
+  <li><a href="https://www.mft-company.com/challenge-disc-2-0-das-upgrade-fur-jeden-laufer-zu-hause/">Challenge Disc</a> 
+von MFT</li>
+</ul>
+
+<h4 id="stefan">Stefan</h4>
+
+<ul>
+  <li>Erzählt die Geschichte, wie es zur Staffel gekommen ist, als er auf der 
+<a href="https://privacyweek.at/">Privacy Week</a> von Markus angesprochen wurdeed</li>
+  <li><a href="https://www.vienna-marathon.com/?surl=2e2a7a2e57d1578bf33a559b20c463f6#goto-relay">Vienna Staffel Marathon</a> 
+am 7.April 2019</li>
+  <li><a href="https://www.informatom.com/presentations/tracker/#1">Vienna-rb talk</a></li>
+  <li>Wir sind ein multikontinentales Staffelteam!</li>
+  <li>Gesundheitsprobleme (ein paar Tage schmerzende Wade und eine Blase unter der 
+großen Zehe)</li>
+  <li>Neue Gadgets und Klamotten
+    <ul>
+      <li>coole <a href="https://www.decathlon.at/laufjacke-kiprun-evolutiv-gelb-id_8394821.html">Laufjacke</a> 
+von Decathlon</li>
+      <li>blinkendes <a href="https://www.decathlon.at/lauflicht-autonom-id_8501574.html">Running Light</a> 
+ohne Batterien oder Akkus</li>
+    </ul>
+  </li>
+  <li>10k <a href="http://www.altstadtadventlauf.at/">Adventlauf in Mödling</a>: Wurde Letzter! 
+Trotzdem großartige Streckenposten, die mich angefeuert haben. 
+Strava sagt, es waren keine 10k ;-(, aber ich sage persönliche Bestzeit ist 
+nun unter 1:15:00.</li>
+</ul>
+:ET

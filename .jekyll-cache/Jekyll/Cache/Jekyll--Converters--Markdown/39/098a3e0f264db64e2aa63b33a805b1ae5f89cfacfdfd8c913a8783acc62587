@@ -1,0 +1,20 @@
+I"<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh017_sensorun.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 17","subtitle":"Interview: Sensorun","url":"http://localhost:4000/2018/12/23/episode17.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Vorwort"},{"start":"00:01:30.000 ","title":"Vorstellung durch Sebastian"},{"start":"00:01:51.000 ","title":"Sensorun"},{"start":"00:19:24.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li><a href="https://www.strava.com/athletes/5971479">Sebastian Ritterbusch</a>, 
+bekannt aus dem 
+<a href="http://www.math.kit.edu/ianm4/seite/modellansatz/de">Modellansatz Podcast</a>, 
+interviewt <a href="https://www.strava.com/athletes/26733219">Dr.Steffen Hüttner</a> zu
+<a href="https://sensorun.de/">Sensorun</a>, einen Sensor, der am Schienbein und nicht am Fuß getragen werden.</li>
+  <li>Vielen Dank an Sebastian Ritterbusch für die Aufnahme!</li>
+  <li>Vielen Dank auch an Hrn. Dr. Hüttner für seine Zeit und die Erläuterungen!</li>
+  <li>Wir stehen in keiner wirtschaftlichen Beziehung zu Sensorun.</li>
+</ul>
+:ET

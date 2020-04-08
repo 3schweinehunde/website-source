@@ -1,0 +1,142 @@
+I"�<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh032_anders.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 32","subtitle":"1. kommt es anders und 2. als mensch denkt","url":"http://localhost:4000/2020/03/21/episode32.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Begrüßung"},{"start":"00:01:17.000 ","title":"Rechenschaftsablage"},{"start":"00:11:35.000 ","title":"Themen"},{"start":"01:08:00.000 ","title":"Termine und Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Moderation: Steve</li>
+</ul>
+
+<h3 id="social-media">Social Media</h3>
+
+<ul>
+  <li><a href="https://www.strava.com/clubs/3schweinehunde">Strava-Club</a> (299 Mitglieder)</li>
+  <li><a href="https://www.instagram.com/3_schweinehunde/">Instagram</a></li>
+  <li><a href="https://twitter.com/3schweinehunde">Twitter</a></li>
+</ul>
+
+<h3 id="allgemeines">Allgemeines</h3>
+
+<ul>
+  <li>Laufen in Zeiten von SARS-CoV-2/Covid-19?</li>
+</ul>
+
+<h3 id="rechenschaftsablagestate-of-the-pig">Rechenschaftsablage/State of the Pig</h3>
+
+<ul>
+  <li>43 Tage seit letzter Folge am 7.2.20
+    <ul>
+      <li>Stefan: 173km bei 21 Läufen (-0.9 kg)</li>
+      <li>Dominic: 63 km bei 12 Läufen (-4.5 kg)</li>
+      <li>Steve: 197km bei 19 Läufen</li>
+      <li>Birgit: 119 km bei 19 Läufen</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="birgit">Birgit</h3>
+
+<ul>
+  <li>Hätte ohne Corona nie so viele Läufe zusammengebracht, aber seit ich nicht mehr ins Fitnessstudio kann …</li>
+  <li>2 Paar Laufschuhe gehamstert!</li>
+  <li>Wir haben noch immer keine neue Tagline</li>
+</ul>
+
+<h3 id="stefan">Stefan</h3>
+
+<ul>
+  <li>Als ich jung war, war Corona noch cool: <a href="https://www.youtube.com/watch?v=KbWtaxoIQeg">Cool Corona</a></li>
+  <li>Bin kein Fan von Hubschraubern über mir, tendiere zu Tagesrand-/Nachtlauf</li>
+  <li>Fokus war vorher schon auf Maf, jetzt erst recht</li>
+  <li>MAF Power war schon deutlich gestiegen (10%)</li>
+  <li>Wie man die Leistung vom 15s/km innerhalb eines Laufs steigert</li>
+  <li>Bei den letzten Läufen wieder etwas schwächer #notSoCoolCorona</li>
+  <li>Community
+    <ul>
+      <li>NCT-Kampagne: <a href="https://www.nct-heidelberg.de/das-nct/spenden/spendenaktion.html?cfd=uuhxl#cff">Schweinehunde <del>laufen oder</del> spenden</a></li>
+      <li>Virtueller Lauf/Wettkampf mit Urkunde/Medaille?
+(Huh, da hat mir ein Steve was untergejubelt!)</li>
+      <li>Mattermost - Chatserver:
+        <ul>
+          <li><a href="https://mattermost.informatom.com/signup_user_complete/?id=pniz51hpoiyqumcdeu11463o8h">Einladungslink</a></li>
+          <li>Es gibt Desktopapps und Mobile Apps für alle gängigen Betriebssysteme,
+aber man kann auch einfach die <a href="https://mattermost.informatom.com">Webseite</a> 
+verwenden.</li>
+        </ul>
+      </li>
+      <li>Mumble/Murmur Audiochat - Server:
+        <ul>
+          <li>Adresse: mittenin.at</li>
+          <li>Port: 64738</li>
+          <li>Username: ist frei wählbar (soweit nicht schon vergeben)</li>
+          <li>Password: Zuerst die Ziffer Drei und dann das Wort Schweinehunde, alles 
+klein geschrieben und ohne Leerzeichen.</li>
+          <li>Kanal: 3 Schweinehunde, dort muss man zumindest bei der ersten Anmeldung
+manuell hineinwechseln</li>
+          <li>Es gibt Desktopapps und Mobile Apps für alle gängigen Betriebssysteme,
+ein Webinterface zum Server gibt es nicht.</li>
+        </ul>
+      </li>
+      <li>Gibt’s Probleme, so meldet Euch bitte per Email bei <a href="mailto:stefan@3schweinehun.de">stefan@3schweinehun.de</a>,
+damit Stefan das geordnet behandeln kann.</li>
+    </ul>
+  </li>
+  <li>Neues in <a href="https://encrateia.informatom.com/">Encrateia</a>
+    <ul>
+      <li>Diagramm: Horizontal Power Ratio (instead of Form Power)</li>
+      <li>Diagramm Horizontal Stride Ratio (instead of Vertical Oscillation)</li>
+      <li>Leg spring stiffness / weight</li>
+      <li>Viel Stabilitätsarbeit (Steve’s Läufe funktionieren jetzt auch alle)</li>
+      <li>APK für Android auf der Webseite</li>
+      <li>iOS Version wohl bald per Apple TestFlight</li>
+    </ul>
+  </li>
+  <li><strong>Science dazu</strong> (von Steve recherchiert)
+    <ul>
+      <li>Paper: <a href="https://www.researchgate.net/publication/311860780_Calculating_acute_Chronic_workload_ratios_using_exponentially_weighted_moving_averages_provides_a_more_sensitive_indicator_of_injury_likelihood_than_rolling_averages">Calculating acute:chronic workload ratios using exponentially weighted moving averages provides a more sensitive indicator of injury likelihood than rolling averages</a></li>
+      <li>Paper: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/sms.13627">Superior performance improvements in elite cyclists following short‐interval vs effort‐matched long‐interval training</a></li>
+      <li>Paper: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/sms.13634">No effect of increasing protein intake during military exercise with severe energy deficit on body composition and performance</a></li>
+      <li>Paper: <a href="https://docs.google.com/document/u/3/d/e/2PACX-1vSS2mB3I3M_193Al8Kx02fSuDrK9uS8zJLqKv5WSQPcCEgPh19RPxMMbzk7OxKg3-A2QZkQ6_vDLR0q/pub">Understanding Powermeter Metrics</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="steve">Steve</h3>
+
+<ul>
+  <li><a href="https://shop.blackroll.com/products/blackroll-recovery-pillow">Recovery Pillow by Blackroll</a> (<a href="https://amzn.to/3cu08Cm">Amazon</a>)</li>
+  <li>Auch neue Schuhe: <a href="https://www.adidas.de/adizero-boston-8-schuh/EF0718.html?cm_mmc=AdieSEM_PLA_MSN-_-GS-OPT-DE-Categories-SubBranded-_-SUBBRAND%20-%20outlet-_-PRODUCT%20GROUP&amp;cm_mmca1=DE&amp;cm_mmca2=e&amp;ds_agid=58700004722757448&amp;gclid=CPiUu6bkqegCFcE4GwodRXsN2g&amp;gclsrc=ds&amp;msclkid=024f9aedbf7b17198f8cc498a7860b8f">Adidas AdiZero Boston 8</a></li>
+  <li><strong>Umbau Trainingsplan</strong>
+    <ul>
+      <li>Kein Wettkampf also Umstrukturierung notwendig</li>
+      <li>Focus on your aerobic engine “<a href="https://docs.google.com/document/d/e/2PACX-1vRvURVTw5u16T2xaYUAZhO0ZT46KVzdHpelgIq86tYNuyscRjGQIWcYrP4Rr6Sje9dvF90VjmIOCjtQ/pub">It’s an aerobic sport, dammit!</a>”</li>
+    </ul>
+  </li>
+  <li><strong>Laufen mit Kind</strong>
+    <ul>
+      <li>Tolle sache :) Kostet mich ca. 10W und 10 sec/km</li>
+      <li><a href="https://shop.zweirad-stadler.de/Fahrrad-Shop/Anhaenger/Kinderanhaenger/Thule-Chariot-CX1-inkl-Fahrradset-2016.html">Thule Chariot CX 1</a>
+        <ul>
+          <li><a href="https://amzn.to/2WvWXV6">Amazon</a></li>
+          <li><a href="https://shop.zweirad-stadler.de/Fahrrad-Teile/Kindersitze-Kindertransport/Zubehoer/Thule-Babysitz-fuer-Anhaenger.html">Infant Sling</a></li>
+          <li><a href="https://shop.zweirad-stadler.de/Fahrrad-Teile/Kindersitze-Kindertransport/Zubehoer/Thule-Jogging-Set-Chariot-CX-1.html">Jogging-Set</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="nächste-termine">Nächste Termine</h3>
+
+<ul>
+  <li><del>19.April 2020: <a href="https://www.vienna-marathon.com/">Wien Marathon</a> (Staffel)</del></li>
+  <li><del>17.Mai 2020: <a href="https://www.herzogstadtlauf.de/home/#_">Herzogstadtlauf Straubing</a></del></li>
+  <li>26.Juni 2020: <a href="https://www.nct-heidelberg.de/das-nct/spenden/nct-lauf.html">NCT-Lauf</a></li>
+  <li>25.Oktober 2020: Lauf in <a href="https://www.valenciaciudaddelrunning.com">Valencia</a></li>
+  <li>1.November 2020 <a href="https://www.asgtria-hockenheim.de/hockenheim-lauf/allg-infos/">Hockenheim-Lauf</a></li>
+</ul>
+:ET

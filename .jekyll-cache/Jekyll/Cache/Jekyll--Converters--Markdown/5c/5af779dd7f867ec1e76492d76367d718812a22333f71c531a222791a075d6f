@@ -1,0 +1,80 @@
+I"�<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh014_live_aus_wien.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 14","subtitle":"Live aus Wien","url":"http://localhost:4000/2018/10/02/episode14.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Vorgeplänkel und Begrüßungsrunde"},{"start":"00:01:45.000 ","title":"Ganzohr, aber wo ist Steve?"},{"start":"00:03:00.000 ","title":"Hörerinnenlauf"},{"start":"00:05:12.000 ","title":"Rechenschaftsablage"},{"start":"00:10:00.000 ","title":"Aktuelles und Pläne"},{"start":"00:18:00.000 ","title":"Feedback"},{"start":"00:23:30.000 ","title":"Stefan entwickelt an einer Tracking Software"},{"start":"00:27:45.000 ","title":"Abschlussrunde mit Vorsätzen"},{"start":"00:29:30.000 ","title":"Verabschiedung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<h3 id="ganzohr-2018">Ganzohr 2018</h3>
+
+<ul>
+  <li>Hörer:innenlauf: <a href="https://www.strava.com/activities/1872106230">Lothars Track</a> mit Balus Haken</li>
+  <li>Sebastians Lauf <a href="https://www.strava.com/activities/1874353443">Good Morning Vienna</a> am Folgetag
+mit vielen Fotos aus Wien</li>
+</ul>
+
+<h3 id="rechenschaftsablage-und-review-auf-das-gesamte-jahr">Rechenschaftsablage und Review auf das gesamte Jahr</h3>
+
+<ul>
+  <li>
+    <p>Wir haben nach einem Jahr schon 14 Folgen, also zumindest unseren Rhytmus von mehr als einmal pro
+Monat geschafft :D</p>
+  </li>
+  <li>TJ
+    <ul>
+      <li>im Kalenderjahr 2018: 35 Läufe,</li>
+      <li>gesamt: 54 Läufe, 205 km</li>
+      <li>Motivation wo bist du?</li>
+      <li>Plant challenges wieder aufzunehmen</li>
+    </ul>
+  </li>
+  <li>Stefan
+    <ul>
+      <li>im Kalenderjahr 2018: 70 Läufe, 77 h, 510 km, 5500 Höhenmeter</li>
+      <li>gesamt: 97 Läufe, 650 km</li>
+      <li>Motivationsloch vorüber, Dominic pusht mich</li>
+      <li>hat mit Steve langes Beratungsgespräch gehabt</li>
+      <li>Plan ab jetzt 3 / Woche laufen</li>
+    </ul>
+  </li>
+  <li>Dominic
+    <ul>
+      <li>im Kalenderjahr 2018: 92 Läufe, 3h oder 22 km /Woche, 65 Stunden, 504 km, 5400 Höhenmeter</li>
+      <li>Läuft jetzt 4 / Woche</li>
+    </ul>
+  </li>
+  <li>Steve
+    <ul>
+      <li>Seit letzter #ganzohr: 2 166km</li>
+      <li>Ist Halbmarathon in Stockholm gelaufen</li>
+      <li>Toller Lauf, PB war aber nicht drin: https://www.strava.com/activities/1843183697</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="themen">Themen</h3>
+
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.runsmartproject.vdot_calculator">Vdot Running Calculator</a></li>
+  <li>Intervalltraining</li>
+  <li>Unser gemeinsamer Halbmarathon wird wohl im Oktober 2019 sein (heuer findet er am 14.10. statt)</li>
+  <li>Dominic will wieder den NCT Lauf im Juli machen</li>
+  <li>Stefan wird sich einen Lauf im Dezember suchen</li>
+  <li>alle 3 wollen wieder ernst abnehmen</li>
+  <li>Stefans Tracking Software
+    <ul>
+      <li><a href="https://github.com/haslinger/tracker">Github Repo</a></li>
+      <li><a href="https://haslinger.github.io/tracker/">Demo mit Stefans Läufen</a></li>
+      <li>kann man auch nur lokal am eigenen Rechner betreiben und damit die eigene Privatsphäre wahren</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="feedback">Feedback</h3>
+
+<ul>
+  <li>Vielen Dank an Melanie, Ramon und Oliver für das Feedback!</li>
+</ul>
+:ET

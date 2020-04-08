@@ -1,0 +1,32 @@
+I"	<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"http://localhost:4000/episodes/3sh029_nachwuchs.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Episode 29","subtitle":"Nachwuchs","url":"http://localhost:4000/2019/10/23/episode29.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Vorgeplänkel"},{"start":"00:00:59.000 ","title":"Vorstellungsrunde"},{"start":"00:03:57.000 ","title":"Einspieler von Dominic"},{"start":"00:06:40.000 ","title":"Vorstellungsrunde Teil 2"},{"start":"00:08:00.000 ","title":"Der Trainer macht ein Recap"},{"start":"00:11:00.000 ","title":"Recap aller Teilnehmer:innen"},{"start":"00:34:45.000 ","title":"Wie lange sollte man für HM trainieren?"},{"start":"00:46:12.000 ","title":"Vorausschau"},{"start":"00:49:15.000 ","title":"mögliche weitere Läufe"},{"start":"01:01:00.000 ","title":"Verabschiebung"}]}}
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+</script>
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Halmarathonserie <a href="https://www.superhalfs.com/">Superhalfs</a></li>
+  <li><a href="https://dresdner-nachtlauf.de/nachtlaufserie/">sächsische Nachtlaufserie</a></li>
+  <li><a href="https://cambridgehalfmarathon.com/">Halbmarathon Cambridge</a></li>
+  <li><a href="https://challenge-stpoelten.com">Triathlon St.Pölten</a></li>
+  <li><a href="http://www.wolfgangseelauf.at/">Wolfgangseelauf</a></li>
+  <li><a href="http://www.altstadtadventlauf.at/">Adventlauf Mödling</a></li>
+  <li><a href="https://www.vienna-marathon.com/">Wien Staffelmarathon</a></li>
+</ul>
+
+<h3 id="erfahrungsberichte">Erfahrungsberichte</h3>
+
+<ul>
+  <li>Steve’s <a href="https://raincastle.blog/?p=942">Rückblick auf das 3-Schweinehunde Main-Event</a></li>
+  <li>Stefan’s Laufbericht <a href="https://www.informatom.com/2019/10/17/breaking_three.html">Breaking Three</a></li>
+</ul>
+
+<h3 id="nächste-termine">Nächste Termine</h3>
+
+<ul>
+  <li>1.12.2019: <a href="http://www.altstadtadventlauf.at/">Adventlauf Mödling</a></li>
+</ul>
+:ET

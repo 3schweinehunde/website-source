@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-# _config.yml
+_config.yml
 # episodes
 stats/*
 Gemfile.lock

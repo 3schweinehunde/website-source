@@ -1,5 +1,5 @@
 ---
-title: Jeder Kilometer zählt
+title: Jede Meile zählt
 layout: default
 navigation: 0
 ---

@@ -2,8 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 _config.yml
-# episodes
 stats/*
 Gemfile.lock
-episodes/3sh022_was_laeuft.flac
+episodes/
 .jekyll-cache

@@ -13,6 +13,10 @@
         type="application/atom+xml"
         href="{{ site.url }}/general_feed.xml"
         title="General Site Atom Feed (No Podcast Metadata!)" />
+  <link rel="alternate" 
+         type="application/rss+xml" 
+         href="{{ site.url }}/episodes.mp3.rss"
+         title="RSS Feed (Podcast Feed)"  />
   {{ site | episode_feeds_html }}
 
   <link href='/assets/css/ubuntu.css' rel='stylesheet' type='text/css'>

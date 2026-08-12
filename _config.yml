@@ -26,7 +26,7 @@ license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 use_isso: no # set to 'yes' to include isso comments form
 
 plugins: [jekyll-octopod]
-theme: jekyll-bootflat
+theme: jekyll-octopod-bulma
 exclude: [README.md, LICENSE]
 
 future: false

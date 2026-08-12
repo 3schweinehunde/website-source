@@ -1,9 +1,18 @@
+// Use the bundled Ubuntu webfont (assets/css/ubuntu.css, assets/fonts/ubuntu/) as the site's
+// body font instead of jekyll-bulma's own default font stack. This file shadows jekyll-bulma's
+// own _sass/_overrides.scss entirely (theme vs. site file, same name, whole-file precedence, not
+// merged) so the theme's own Ubuntu default never reaches a site created via `octopod setup`
+// unless it's set here too.
+:root {
+  --bulma-body-family: Ubuntu, Helvetica, Arial, sans-serif;
+}
+
 // Improve visibility of subtitles and similar text by increasing contrast
 h1 small, h2 small, h3 small {
   color: #77778C;
 }
 
-btn small, .btn small {
+.button small {
   color: #2A2A2A;
 }
 
@@ -12,57 +21,51 @@ btn small, .btn small {
   font-size: 45%;
 }
 
-// Theme for the Swiss-Sided Dice podcast, red and white based on the Swiss flag - commented out for now, until a better solution can be found
+// Example: give your site its own brand color instead of Bulma's default navbar. Bulma's navbar
+// reads its colors from CSS custom properties scoped on .navbar, so a single block covers the
+// background plus the hue/saturation/lightness triple it derives hover, active and dropdown
+// shading from. Swap the values below for your own color and delete this comment once you've
+// made it yours.
+.navbar {
+  --bulma-navbar-background-color: #48CFAD;
+  --bulma-navbar-h: 166deg;
+  --bulma-navbar-s: 48%;
+  --bulma-navbar-l: 55%;
 
-/*
-// Main navbar background
-.navbar-default {
-  background-color: #E11A27;
+  // Without this, Bulma still colors the *currently active* nav item (a.navbar-item.is-active)
+  // from its own global --bulma-link-h/-s/-l default (a blue unrelated to the values above) instead
+  // of from this navbar's own hue/saturation/lightness - these four properties are what it actually
+  // reads for that state, so they need to be pointed at our own values too.
+  --bulma-navbar-item-selected-h: var(--bulma-navbar-h);
+  --bulma-navbar-item-selected-s: var(--bulma-navbar-s);
+  --bulma-navbar-item-selected-l: var(--bulma-navbar-l);
+  --bulma-navbar-item-selected-background-l: 40%;
+  --bulma-navbar-item-selected-color-l: 97%;
 }
 
-// Hovering over navbar links, keep the text white, but add darker background
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus,
-.navbar-default .navbar-nav > li > a {
-  color: #FFF;
-  background-color: #E11A27;
+// The resting nav items' text color is Bulma's own --bulma-text-l, which is intentionally light
+// in dark mode (for contrast against the page's now-dark background) - but our navbar's own
+// background above is a literal color, so it doesn't darken with the rest of the page. Without
+// this, dark mode ends up with near-white text on a background that's still light-mode teal,
+// unreadable. Darkening the same hue/saturation here keeps the brand color recognizable while
+// giving Bulma's light dark-mode text something dark enough to actually contrast against.
+@media (prefers-color-scheme: dark) {
+  .navbar {
+    --bulma-navbar-background-color: #1B4B40;
+    --bulma-navbar-l: 20%;
+  }
 }
 
-// The "brand" / podcast title doesn't change on hover, but does keep the text white
-.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-  color: #FFF;
-}
-
-// This is for the menu button on narrow screens
-.navbar-default .navbar-toggle {
-  background-color: #E11A27;
-  border-color: #FFF;
-}
-
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: #FFF;
-}
-
-// Darker background, keep rest white
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-nav > li > a:hover {
-  background-color: #A5131D;
-  border-color: #FFF;
-  color: #FFF;
-}
-
-// Links and buttons in the website are a dark red for best contrast, but get lightened on hover for feedback
+// Links and buttons in the website match the navbar, but get lightened on hover for feedback
 a {
-  color: #CF000F;
+  color: #48CFAD;
 }
 a:hover {
-  color: #EF3743;
+  color: #7BD1BD;
 }
-.btn-primary {
-  background-color: #CF000F;
+.button.is-primary {
+  background-color: #48CFAD;
 }
-.btn-primary:hover, .btn-primary:focus {
-  background-color: #EF3743;
+.button.is-primary:hover, .button.is-primary:focus {
+  background-color: #7BD1BD;
 }
-*/

@@ -1,12 +1,9 @@
 source "https://rubygems.org"
-
-gem 'jekyll', "~> 4.0.0"
-gem 'webrick'
+gem 'jekyll', '~> 4.4'
+gem 'jekyll-sass-converter', '~> 3.0'
 
 group :jekyll_plugins do
-  gem 'jekyll-octopod', "0.9.23"
-# gem 'jekyll-octopod', path: "../jekyll-octopod"
-  gem "jekyll-feed", "~> 0.6"
-# gem 'jekyll-bootflat', path: "../jekyll-bootflat"
-  gem 'jekyll-bootflat'
+   gem 'jekyll-octopod', '~> 0.18.2'
+   gem 'jekyll-octopod-bulma', '~> 0.1.1'
+   gem "jekyll-feed", "~> 0.6"
 end

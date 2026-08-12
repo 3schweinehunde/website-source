@@ -1,45 +1,44 @@
-<div class="page-header">
-  <h3>
+<div class="block">
+  <h3 class="title is-3">
     {{ site.title }}
-    {% if site.subtitle %}<br/><small>{{ site.subtitle }}</small>{% endif %}
   </h3>
+  {% if site.subtitle %}<h4 class="subtitle is-4">{{ site.subtitle }}</h4>{% endif %}
 </div>
 
-<p class="text-center">
-  <img width="200px" src="{{ site.url }}/img/logo-360x360.png" alt="{{ site.title }} logo">
+<p class="has-text-centered">
+  <img width="200px" src="{{ site.url }}/assets/img/logo-360x360.png" alt="{{ site.title }} logo">
 </p>
 
 {% if site.description %}<p>{{ site.description }}</p>{% endif %}
 
-<p class="text-center">
-  <script class="podlove-subscribe-button"
-          src="/subscribe-button/javascripts/app.js"
-          data-language="{{ site.language }}"
-          data-size="medium auto"
-          data-style="filled"
-          data-json-data="podcastData"
-          data-colors="#FC6E51;green;blue">
-  </script>
-  <script>
-    window.podcastData = {
-      "title": "{{ site['title']}}",
-      "subtitle": "{{ site['subtitle']}}",
-      "description": "{{ site['description']}}",
-      "cover": "{{ site.url }}/img/logo-360x360.png",
-      "feeds": [
-      {% for feed in site['episode_feed_formats'] %}
-        {
-          "type": "audio",
-          "format": "{{ feed }}",
-          "url": "{{ site['url']}}/episodes.{{ feed }}.rss",
-          "directory-url-itunes": "{{ site['itunes_url']}}",
-          "variant": "high"
-        },
-      {% endfor %}
-      ]
-    }
-  </script>
-</p>
+<script class="podlove-subscribe-button"
+        src="/assets/subscribe-button/javascripts/app.js"
+        data-language="{{ site.language }}"
+        data-size="medium auto"
+        data-style="filled"
+        data-json-data="podcastData"
+        data-colors="#FC6E51;green;blue">
+</script>
+
+<script>
+  window.podcastData = {
+    "title": "{{ site['title']}}",
+    "subtitle": "{{ site['subtitle']}}",
+    "description": "{{ site['description']}}",
+    "cover": "{{ site.url }}/assets/img/logo-360x360.png",
+    "feeds": [
+    {% for feed in site['episode_feed_formats'] %}
+      {
+        "type": "audio",
+        "format": "{{ feed }}",
+        "url": "{{ site['url']}}/episodes.{{ feed }}.rss",
+        "directory-url-itunes": "{{ site['itunes_url']}}",
+        "variant": "high"
+      },
+    {% endfor %}
+    ]
+  }
+</script>
 
 <hr/>
 
@@ -48,51 +47,46 @@ Die Statistiken über unsere Strava-Gruppe haben wir der Datensparsamkeit halber
 
 <hr/>
 
-<h4>RSS-Feeds</h4>
+<h4 class="title is-4">RSS-Feeds</h4>
 
 <ol type="i">
   {% for feed in site['episode_feed_formats'] %}
-    <li><a href="{{ site['url']}}/episodes.{{ feed }}.rss"><i class="fa fa-rss"></i> {{ feed }}-Feed</a></li>
+    <li><a href="{{ site['url']}}/episodes.{{ feed }}.rss"><i class="las la-rss"></i> {{ feed }}-RSS-Feed</a></li>
   {% endfor %}
 </ol>
 
-
-<h4>JSON-Feeds</h4>
+<h4 class="title is-4">JSON-Feeds</h4>
 
 <ol type="i">
   {% for jsonfeed in site['json_feed_formats'] %}
-    <li><a href="{{ site['url']}}/feed.{{ jsonfeed }}.json"><i class="fa fa-rss-square"></i> {{ jsonfeed }}-JSON-Feed</a></li>
+    <li><a href="{{ site['url']}}/feed.{{ jsonfeed }}.json"><i class="las la-rss-square"></i> {{ jsonfeed }}-JSON-Feed</a></li>
   {% endfor %}
 </ol>
 
-
-<h4>Feedback</h4>
+<h4 class="title is-4">Feedback</h4>
 
 <p>bitte per E-Mail an <a href="mailto:feedback@3-schweinehun.de">feedback@3-schweinehun.de</a>!</p>
 
-
-<h4>Directories</h4>
+<h4 class="title is-4">Directories</h4>
 
 <ol type="i">
-  <li>Apple-<a href="https://itunes.apple.com/at/podcast/3-schweinehunde/id1294866438?mt=2"><i class="fab fa-apple"></i> Itunes</a></li>
+  <li>Apple-<a href="https://itunes.apple.com/at/podcast/3-schweinehunde/id1294866438?mt=2"><i class="lab la-apple"></i> Itunes</a></li>
   <li><a href="https://panoptikum.social/podcasts/23963"><img src="/img/panoptikum.ico"/> Panoptikum</a></li>
   <li><a href="https://fyyd.de/podcast/3-schweinehunde/0"><img height="16" src="/img/fyyd.ico"/> Fyyd</a></li>
-
 </ol>
 
-
-<h4>Credits</h4>
+<h4 class="title is-4">Credits</h4>
 
 <ul>
   <li>Logo: <a href="https://www.strava.com/athletes/25455383">Birgit</a> &amp; Steve</li>
 </ul>
 
-<h4>Lizenz</h4>
+<h4 class="title is-4">Lizenz</h4>
 
 {% if site.license_url %}
   <a rel="license" href="{{ site.license_url }}">
     {% if site.license_image_url %}
-      <img alt="Creative Commons License" style="border-width:0" src="/img/88x31.png" />
+      <img alt="Creative Commons License" style="border-width:0" src="{{ site.license_image_url }}" />
     {% else %}
       {{ site.license }}
     {% endif %}
@@ -100,10 +94,6 @@ Die Statistiken über unsere Strava-Gruppe haben wir der Datensparsamkeit halber
 {% endif %}
 
 <hr/>
-
-{% if site.flattr_uid %}
-  <span class="pull-left">{{ site | flattr_button }}</span>
-{% endif %}
 
 <p>
   <span>Wenn ihr uns unterstützen wollt, dann könnt ihr uns Auphonic-Credits spenden:<br/>
@@ -113,44 +103,43 @@ Die Statistiken über unsere Strava-Gruppe haben wir der Datensparsamkeit halber
   </span>
 </p>
 
-<h4>Twitter</h4>
+<h4 class="title is-4">Twitter</h4>
 
 <p>
-  <a href="https://twitter.com/{{ site.twitter_nick }}" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @{{ site.twitter_nick }}
+  <a href="https://twitter.com/{{ site.twitter_nick }}" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @{{ site.twitter_nick }}
   </a>
 </p>
 <p>
-  <a href="https://twitter.com/papiertapir" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @papiertapir
+  <a href="https://twitter.com/papiertapir" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @papiertapir
   </a> &nbsp; aka Birgit
 </p>
 <p>
-  <a href="https://twitter.com/hellmue" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @hellmue
+  <a href="https://twitter.com/hellmue" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @hellmue
   </a> &nbsp; aka Dominic
 </p>
 <p>
-  <a href="https://twitter.com/johndillinger15" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @johndillinger15 ‏
+  <a href="https://twitter.com/johndillinger15" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @johndillinger15
   </a> &nbsp; aka Steve
- <pi>
+</p>
 <p>
-  <a href="https://twitter.com/informatom" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @informatom
+  <a href="https://twitter.com/informatom" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @informatom
   </a> &nbsp; aka Stefan
 </p>
 <p>
-  <a href="https://twitter.com/theTJ23" class="button btn-primary btn-sm">
-    <i class="fab fa-twitter"></i> @theTJ23
+  <a href="https://twitter.com/theTJ23" class="button is-primary is-small">
+    <i class="lab la-twitter"></i> @theTJ23
   </a> &nbsp; aka TJ
 </p>
 
-<h4>Parkrun Group</h4>
+<h4 class="title is-4">Parkrun Group</h4>
 
 <p>
-  <a href="https://www.parkrun.co.at/groups/47711/" class="button btn-success btn-sm">
+  <a href="https://www.parkrun.co.at/groups/47711/" class="button is-success is-small">
     3 Schweinehunde
   </a>
 </p>
-

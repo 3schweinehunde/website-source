@@ -15,6 +15,11 @@ episodes_per_feed_page: 100
 # Date can be localized via date_de.rb plugin
 date_format: "ordinal"
 
+ssh_host: stefan@alpha
+ssh_port: 22
+document_root: /var/www/3-schweinehun.de/html
+rsync_delete: true
+
 twitter_nick: 3schweinehunde
 language: de
 explicit: 'no'  # 'yes'/'no'/clean

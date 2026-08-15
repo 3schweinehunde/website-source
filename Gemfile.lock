@@ -81,13 +81,13 @@ GEM
       sinatra-contrib (~> 4.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-octopod (0.18.2)
+    jekyll-octopod (0.20.1)
       facets (~> 3.2)
       jekyll (~> 4.4)
       jekyll-admin (~> 0.12)
       jekyll-octopod-bulma (~> 0.1.1)
       kramdown-parser-gfm (~> 1.1)
-    jekyll-octopod-bulma (0.1.1)
+    jekyll-octopod-bulma (0.1.5)
       jekyll (~> 4.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
@@ -110,7 +110,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (7.0.5)
-    rack (3.2.6)
+    rack (3.2.7)
     rack-protection (4.2.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
@@ -201,7 +201,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4)
   jekyll-feed (~> 0.6)
-  jekyll-octopod (~> 0.18.2)
+  jekyll-octopod (~> 0.20.0)
   jekyll-octopod-bulma (~> 0.1.1)
   jekyll-sass-converter (~> 3.0)
 
@@ -241,8 +241,8 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-admin (0.12.0) sha256=9a48cceace1bd5a58081ab474619fbe863252a921503c9f9c35ac66505670d2f
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
-  jekyll-octopod (0.18.2) sha256=7e5c74587d65b1b50a4cf52841316504be539a9173842cd7e365737b1881c068
-  jekyll-octopod-bulma (0.1.1) sha256=874f14e2be6c23608467748868f27041da32d1a72b8951e650e450ec07d906b5
+  jekyll-octopod (0.20.1) sha256=2da99f12a8cff22d0138605c203a273963378abf59ea17860077f4d7fa544659
+  jekyll-octopod-bulma (0.1.5) sha256=eea0bcad5a5adca90bb8fd3f63006915d4ad31978dd1c48853cb4e7d65ac683f
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.21.2) sha256=1f1d3b7cf2b3ba1a69beca0bb6db13d5438b80bff3cd54cdaaa620b9b07c1c6a
@@ -256,7 +256,7 @@ CHECKSUMS
   mustermann (3.1.1) sha256=4c6170c7234d5499c345562ba7c7dfe73e1754286dcc1abb053064d66a127198
   pathutil (0.16.2) sha256=e43b74365631cab4f6d5e4228f812927efc9cb2c71e62976edcb252ee948d589
   public_suffix (7.0.5) sha256=1a8bb08f1bbea19228d3bed6e5ed908d1cb4f7c2726d18bd9cadf60bc676f623
-  rack (3.2.6) sha256=5ed78e1f73b2e25679bec7d45ee2d4483cc4146eb1be0264fc4d94cb5ef212c2
+  rack (3.2.7) sha256=93e13e1c24f93556671d85d2d79fa228c3485815c50d7e2f265b5330c6528fb7
   rack-protection (4.2.1) sha256=cf6e2842df8c55f5e4d1a4be015e603e19e9bc3a7178bae58949ccbb58558bac
   rack-session (2.1.2) sha256=595434f8c0c3473ae7d7ac56ecda6cc6dfd9d37c0b2b5255330aa1576967ffe8
   rackup (2.3.1) sha256=6c79c26753778e90983761d677a48937ee3192b3ffef6bc963c0950f94688868
